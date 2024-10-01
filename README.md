@@ -17,7 +17,7 @@ By using the Bot, you agree to these terms. If not, please stop using it.
 
     7.Termination: Either party can terminate this agreement at any time.
 
-    8.Governing Law: Governed by the laws of [Your country/state/province], with disputes resolved by arbitration.
+    8. Entire Agreement: This Agreement constitutes the entire agreement between the parties and supersedes all prior or contemporaneous agreements or representations, whether written or oral, relating to the Bot.
 
 By using the Bot, you confirm your acceptance of these terms.
 
